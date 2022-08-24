@@ -1,0 +1,6 @@
+fastai
+numpy
+torch
+gradio
+pandas
+rdkit
