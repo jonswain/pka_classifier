@@ -1,3 +1,7 @@
+Hosted at: https://huggingface.co/spaces/jonswain/pka_classifier
+
+A Chemical Classifier using a Computer Vision Classifier Model
+
 ---
 title: pKa Classifier
 emoji: 🧪
